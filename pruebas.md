@@ -72,7 +72,8 @@ fin
 
 RESALTADO
 
-I need to highlight these ==very important words==.
+<mark >Highlighted text</mark>  
+
 
 
 EMOJI 
