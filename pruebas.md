@@ -17,7 +17,7 @@ esto esta ~~tachado~~
 * etc
 <!-- lISTA ORDENADA -->
 1. manzana
-   1. manzana2
+   * manzana2
 2. pera
 3. etc
 
@@ -66,15 +66,14 @@ fin
 
 
 # GitHub
-*[x] task 1
-*[ ] task 2
+-   [x] task 1
+-   [ ] task 2
 
 
 RESALTADO
 
-==muy importante==
+abc ==muy importante==.
 
 EMOJI 
 
 Esto es tan gracioso! :joy:
-
